@@ -18,11 +18,11 @@ To use this program effectively, follow these steps:
 
     Example in "informations.txt":
     ```
-    Alice
-    Bob
-    1990
-    [...]
-    ```
+    anasse
+    Houlaid
+    2009
+    boinariziki
+     
 
     OR
 
